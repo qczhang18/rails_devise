@@ -32,7 +32,6 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 
 gem 'awesome_print'
-gem 'byebug'
 gem 'haml'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
